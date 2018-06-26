@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "npm-user-packages": "^1.0.0",
-    "superagent": "^1.8.3"
+    "superagent": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
